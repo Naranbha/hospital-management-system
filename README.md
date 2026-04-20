@@ -6,4 +6,4 @@ Tools used:
 - Jira for task management
 - Confluence for documentation
 - GitHub for version control
-Frontend UI development started in feature-ui branch.
+Frontend UI development started in feature-ui branch. with some changes in the user experiecne
